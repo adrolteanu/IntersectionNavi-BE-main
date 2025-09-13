@@ -1,0 +1,3161 @@
+{
+  "100": {
+    "simulated_time_seconds": 100,
+    "real_duration_seconds": 0.17,
+    "real_time_factor": 573.42,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 29,
+    "avg_speed_mps": 5.3,
+    "avg_waiting_time": 0.0
+  },
+  "110": {
+    "simulated_time_seconds": 110,
+    "real_duration_seconds": 0.19,
+    "real_time_factor": 577.83,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 31,
+    "avg_speed_mps": 6.56,
+    "avg_waiting_time": 0.0
+  },
+  "120": {
+    "simulated_time_seconds": 120,
+    "real_duration_seconds": 0.21,
+    "real_time_factor": 583.73,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "130": {
+    "simulated_time_seconds": 130,
+    "real_duration_seconds": 0.22,
+    "real_time_factor": 589.38,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "140": {
+    "simulated_time_seconds": 140,
+    "real_duration_seconds": 0.24,
+    "real_time_factor": 594.76,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "150": {
+    "simulated_time_seconds": 150,
+    "real_duration_seconds": 0.25,
+    "real_time_factor": 599.93,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "160": {
+    "simulated_time_seconds": 160,
+    "real_duration_seconds": 0.27,
+    "real_time_factor": 603.44,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "170": {
+    "simulated_time_seconds": 170,
+    "real_duration_seconds": 0.28,
+    "real_time_factor": 607.72,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "180": {
+    "simulated_time_seconds": 180,
+    "real_duration_seconds": 0.29,
+    "real_time_factor": 610.34,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "190": {
+    "simulated_time_seconds": 190,
+    "real_duration_seconds": 0.31,
+    "real_time_factor": 613.99,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "200": {
+    "simulated_time_seconds": 200,
+    "real_duration_seconds": 0.32,
+    "real_time_factor": 616.49,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "210": {
+    "simulated_time_seconds": 210,
+    "real_duration_seconds": 0.34,
+    "real_time_factor": 618.68,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "220": {
+    "simulated_time_seconds": 220,
+    "real_duration_seconds": 0.35,
+    "real_time_factor": 621.02,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "230": {
+    "simulated_time_seconds": 230,
+    "real_duration_seconds": 0.37,
+    "real_time_factor": 623.1,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "240": {
+    "simulated_time_seconds": 240,
+    "real_duration_seconds": 0.38,
+    "real_time_factor": 625.44,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "250": {
+    "simulated_time_seconds": 250,
+    "real_duration_seconds": 0.4,
+    "real_time_factor": 627.78,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "260": {
+    "simulated_time_seconds": 260,
+    "real_duration_seconds": 0.41,
+    "real_time_factor": 630.24,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "270": {
+    "simulated_time_seconds": 270,
+    "real_duration_seconds": 0.43,
+    "real_time_factor": 631.55,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "280": {
+    "simulated_time_seconds": 280,
+    "real_duration_seconds": 0.44,
+    "real_time_factor": 633.26,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "290": {
+    "simulated_time_seconds": 290,
+    "real_duration_seconds": 0.46,
+    "real_time_factor": 634.67,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "300": {
+    "simulated_time_seconds": 300,
+    "real_duration_seconds": 0.47,
+    "real_time_factor": 636.49,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "310": {
+    "simulated_time_seconds": 310,
+    "real_duration_seconds": 0.49,
+    "real_time_factor": 638.36,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "320": {
+    "simulated_time_seconds": 320,
+    "real_duration_seconds": 0.5,
+    "real_time_factor": 640.33,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "330": {
+    "simulated_time_seconds": 330,
+    "real_duration_seconds": 0.51,
+    "real_time_factor": 642.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "340": {
+    "simulated_time_seconds": 340,
+    "real_duration_seconds": 0.53,
+    "real_time_factor": 644.28,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "350": {
+    "simulated_time_seconds": 350,
+    "real_duration_seconds": 0.54,
+    "real_time_factor": 645.99,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "360": {
+    "simulated_time_seconds": 360,
+    "real_duration_seconds": 0.56,
+    "real_time_factor": 647.59,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "370": {
+    "simulated_time_seconds": 370,
+    "real_duration_seconds": 0.57,
+    "real_time_factor": 649.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "380": {
+    "simulated_time_seconds": 380,
+    "real_duration_seconds": 0.58,
+    "real_time_factor": 650.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "390": {
+    "simulated_time_seconds": 390,
+    "real_duration_seconds": 0.6,
+    "real_time_factor": 652.28,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "400": {
+    "simulated_time_seconds": 400,
+    "real_duration_seconds": 0.61,
+    "real_time_factor": 653.79,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "410": {
+    "simulated_time_seconds": 410,
+    "real_duration_seconds": 0.63,
+    "real_time_factor": 654.69,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "420": {
+    "simulated_time_seconds": 420,
+    "real_duration_seconds": 0.64,
+    "real_time_factor": 655.87,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "430": {
+    "simulated_time_seconds": 430,
+    "real_duration_seconds": 0.65,
+    "real_time_factor": 657.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "440": {
+    "simulated_time_seconds": 440,
+    "real_duration_seconds": 0.67,
+    "real_time_factor": 658.07,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "450": {
+    "simulated_time_seconds": 450,
+    "real_duration_seconds": 0.68,
+    "real_time_factor": 659.25,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "460": {
+    "simulated_time_seconds": 460,
+    "real_duration_seconds": 0.7,
+    "real_time_factor": 660.6,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "470": {
+    "simulated_time_seconds": 470,
+    "real_duration_seconds": 0.71,
+    "real_time_factor": 661.55,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "480": {
+    "simulated_time_seconds": 480,
+    "real_duration_seconds": 0.72,
+    "real_time_factor": 662.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "490": {
+    "simulated_time_seconds": 490,
+    "real_duration_seconds": 0.74,
+    "real_time_factor": 663.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "500": {
+    "simulated_time_seconds": 500,
+    "real_duration_seconds": 0.75,
+    "real_time_factor": 664.45,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "510": {
+    "simulated_time_seconds": 510,
+    "real_duration_seconds": 0.77,
+    "real_time_factor": 665.41,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "520": {
+    "simulated_time_seconds": 520,
+    "real_duration_seconds": 0.78,
+    "real_time_factor": 666.4,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "530": {
+    "simulated_time_seconds": 530,
+    "real_duration_seconds": 0.79,
+    "real_time_factor": 667.1,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "540": {
+    "simulated_time_seconds": 540,
+    "real_duration_seconds": 0.81,
+    "real_time_factor": 667.84,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "550": {
+    "simulated_time_seconds": 550,
+    "real_duration_seconds": 0.82,
+    "real_time_factor": 668.66,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "560": {
+    "simulated_time_seconds": 560,
+    "real_duration_seconds": 0.84,
+    "real_time_factor": 669.35,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "570": {
+    "simulated_time_seconds": 570,
+    "real_duration_seconds": 0.85,
+    "real_time_factor": 670.06,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "580": {
+    "simulated_time_seconds": 580,
+    "real_duration_seconds": 0.87,
+    "real_time_factor": 670.32,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "590": {
+    "simulated_time_seconds": 590,
+    "real_duration_seconds": 0.88,
+    "real_time_factor": 671.21,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "600": {
+    "simulated_time_seconds": 600,
+    "real_duration_seconds": 0.89,
+    "real_time_factor": 671.51,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "610": {
+    "simulated_time_seconds": 610,
+    "real_duration_seconds": 0.91,
+    "real_time_factor": 672.11,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "620": {
+    "simulated_time_seconds": 620,
+    "real_duration_seconds": 0.92,
+    "real_time_factor": 672.7,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "630": {
+    "simulated_time_seconds": 630,
+    "real_duration_seconds": 0.94,
+    "real_time_factor": 673.28,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "640": {
+    "simulated_time_seconds": 640,
+    "real_duration_seconds": 0.95,
+    "real_time_factor": 673.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "650": {
+    "simulated_time_seconds": 650,
+    "real_duration_seconds": 0.96,
+    "real_time_factor": 674.61,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "660": {
+    "simulated_time_seconds": 660,
+    "real_duration_seconds": 0.98,
+    "real_time_factor": 674.98,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "670": {
+    "simulated_time_seconds": 670,
+    "real_duration_seconds": 0.99,
+    "real_time_factor": 675.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "680": {
+    "simulated_time_seconds": 680,
+    "real_duration_seconds": 1.01,
+    "real_time_factor": 676.1,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "690": {
+    "simulated_time_seconds": 690,
+    "real_duration_seconds": 1.02,
+    "real_time_factor": 676.46,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "700": {
+    "simulated_time_seconds": 700,
+    "real_duration_seconds": 1.03,
+    "real_time_factor": 676.74,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "710": {
+    "simulated_time_seconds": 710,
+    "real_duration_seconds": 1.05,
+    "real_time_factor": 677.25,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "720": {
+    "simulated_time_seconds": 720,
+    "real_duration_seconds": 1.06,
+    "real_time_factor": 677.78,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "730": {
+    "simulated_time_seconds": 730,
+    "real_duration_seconds": 1.08,
+    "real_time_factor": 678.06,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "740": {
+    "simulated_time_seconds": 740,
+    "real_duration_seconds": 1.09,
+    "real_time_factor": 678.47,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "750": {
+    "simulated_time_seconds": 750,
+    "real_duration_seconds": 1.1,
+    "real_time_factor": 678.89,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "760": {
+    "simulated_time_seconds": 760,
+    "real_duration_seconds": 1.12,
+    "real_time_factor": 679.08,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "770": {
+    "simulated_time_seconds": 770,
+    "real_duration_seconds": 1.13,
+    "real_time_factor": 679.53,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "780": {
+    "simulated_time_seconds": 780,
+    "real_duration_seconds": 1.15,
+    "real_time_factor": 680.07,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "790": {
+    "simulated_time_seconds": 790,
+    "real_duration_seconds": 1.16,
+    "real_time_factor": 680.43,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "800": {
+    "simulated_time_seconds": 800,
+    "real_duration_seconds": 1.18,
+    "real_time_factor": 680.77,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "810": {
+    "simulated_time_seconds": 810,
+    "real_duration_seconds": 1.19,
+    "real_time_factor": 681.13,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "820": {
+    "simulated_time_seconds": 820,
+    "real_duration_seconds": 1.2,
+    "real_time_factor": 681.49,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "830": {
+    "simulated_time_seconds": 830,
+    "real_duration_seconds": 1.22,
+    "real_time_factor": 681.79,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "840": {
+    "simulated_time_seconds": 840,
+    "real_duration_seconds": 1.23,
+    "real_time_factor": 682.33,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "850": {
+    "simulated_time_seconds": 850,
+    "real_duration_seconds": 1.25,
+    "real_time_factor": 682.6,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "860": {
+    "simulated_time_seconds": 860,
+    "real_duration_seconds": 1.26,
+    "real_time_factor": 682.92,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "870": {
+    "simulated_time_seconds": 870,
+    "real_duration_seconds": 1.27,
+    "real_time_factor": 683.19,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "880": {
+    "simulated_time_seconds": 880,
+    "real_duration_seconds": 1.29,
+    "real_time_factor": 683.42,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "890": {
+    "simulated_time_seconds": 890,
+    "real_duration_seconds": 1.3,
+    "real_time_factor": 683.73,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "900": {
+    "simulated_time_seconds": 900,
+    "real_duration_seconds": 1.32,
+    "real_time_factor": 684.0,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "910": {
+    "simulated_time_seconds": 910,
+    "real_duration_seconds": 1.33,
+    "real_time_factor": 684.47,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "920": {
+    "simulated_time_seconds": 920,
+    "real_duration_seconds": 1.34,
+    "real_time_factor": 684.81,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "930": {
+    "simulated_time_seconds": 930,
+    "real_duration_seconds": 1.36,
+    "real_time_factor": 685.04,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "940": {
+    "simulated_time_seconds": 940,
+    "real_duration_seconds": 1.37,
+    "real_time_factor": 685.2,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "950": {
+    "simulated_time_seconds": 950,
+    "real_duration_seconds": 1.39,
+    "real_time_factor": 685.36,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "960": {
+    "simulated_time_seconds": 960,
+    "real_duration_seconds": 1.4,
+    "real_time_factor": 685.61,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "970": {
+    "simulated_time_seconds": 970,
+    "real_duration_seconds": 1.41,
+    "real_time_factor": 686.01,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "980": {
+    "simulated_time_seconds": 980,
+    "real_duration_seconds": 1.43,
+    "real_time_factor": 686.22,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "990": {
+    "simulated_time_seconds": 990,
+    "real_duration_seconds": 1.44,
+    "real_time_factor": 686.46,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1000": {
+    "simulated_time_seconds": 1000,
+    "real_duration_seconds": 1.46,
+    "real_time_factor": 686.67,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1010": {
+    "simulated_time_seconds": 1010,
+    "real_duration_seconds": 1.47,
+    "real_time_factor": 686.94,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1020": {
+    "simulated_time_seconds": 1020,
+    "real_duration_seconds": 1.48,
+    "real_time_factor": 687.19,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1030": {
+    "simulated_time_seconds": 1030,
+    "real_duration_seconds": 1.5,
+    "real_time_factor": 687.48,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1040": {
+    "simulated_time_seconds": 1040,
+    "real_duration_seconds": 1.51,
+    "real_time_factor": 687.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1050": {
+    "simulated_time_seconds": 1050,
+    "real_duration_seconds": 1.53,
+    "real_time_factor": 688.09,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1060": {
+    "simulated_time_seconds": 1060,
+    "real_duration_seconds": 1.54,
+    "real_time_factor": 688.29,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1070": {
+    "simulated_time_seconds": 1070,
+    "real_duration_seconds": 1.55,
+    "real_time_factor": 688.51,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1080": {
+    "simulated_time_seconds": 1080,
+    "real_duration_seconds": 1.57,
+    "real_time_factor": 688.67,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1090": {
+    "simulated_time_seconds": 1090,
+    "real_duration_seconds": 1.58,
+    "real_time_factor": 688.87,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1100": {
+    "simulated_time_seconds": 1100,
+    "real_duration_seconds": 1.6,
+    "real_time_factor": 689.2,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1110": {
+    "simulated_time_seconds": 1110,
+    "real_duration_seconds": 1.61,
+    "real_time_factor": 689.39,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1120": {
+    "simulated_time_seconds": 1120,
+    "real_duration_seconds": 1.62,
+    "real_time_factor": 689.59,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1130": {
+    "simulated_time_seconds": 1130,
+    "real_duration_seconds": 1.64,
+    "real_time_factor": 689.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1140": {
+    "simulated_time_seconds": 1140,
+    "real_duration_seconds": 1.65,
+    "real_time_factor": 690.06,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1150": {
+    "simulated_time_seconds": 1150,
+    "real_duration_seconds": 1.67,
+    "real_time_factor": 690.19,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1160": {
+    "simulated_time_seconds": 1160,
+    "real_duration_seconds": 1.68,
+    "real_time_factor": 690.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1170": {
+    "simulated_time_seconds": 1170,
+    "real_duration_seconds": 1.69,
+    "real_time_factor": 690.69,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1180": {
+    "simulated_time_seconds": 1180,
+    "real_duration_seconds": 1.71,
+    "real_time_factor": 690.78,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1190": {
+    "simulated_time_seconds": 1190,
+    "real_duration_seconds": 1.72,
+    "real_time_factor": 690.96,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1200": {
+    "simulated_time_seconds": 1200,
+    "real_duration_seconds": 1.74,
+    "real_time_factor": 691.13,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1210": {
+    "simulated_time_seconds": 1210,
+    "real_duration_seconds": 1.75,
+    "real_time_factor": 691.27,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1220": {
+    "simulated_time_seconds": 1220,
+    "real_duration_seconds": 1.76,
+    "real_time_factor": 691.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1230": {
+    "simulated_time_seconds": 1230,
+    "real_duration_seconds": 1.78,
+    "real_time_factor": 691.63,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1240": {
+    "simulated_time_seconds": 1240,
+    "real_duration_seconds": 1.79,
+    "real_time_factor": 691.8,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1250": {
+    "simulated_time_seconds": 1250,
+    "real_duration_seconds": 1.83,
+    "real_time_factor": 682.19,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1260": {
+    "simulated_time_seconds": 1260,
+    "real_duration_seconds": 1.85,
+    "real_time_factor": 682.08,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1270": {
+    "simulated_time_seconds": 1270,
+    "real_duration_seconds": 1.86,
+    "real_time_factor": 682.22,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1280": {
+    "simulated_time_seconds": 1280,
+    "real_duration_seconds": 1.88,
+    "real_time_factor": 682.41,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1290": {
+    "simulated_time_seconds": 1290,
+    "real_duration_seconds": 1.89,
+    "real_time_factor": 682.64,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1300": {
+    "simulated_time_seconds": 1300,
+    "real_duration_seconds": 1.9,
+    "real_time_factor": 682.81,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1310": {
+    "simulated_time_seconds": 1310,
+    "real_duration_seconds": 1.92,
+    "real_time_factor": 683.0,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1320": {
+    "simulated_time_seconds": 1320,
+    "real_duration_seconds": 1.93,
+    "real_time_factor": 683.24,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1330": {
+    "simulated_time_seconds": 1330,
+    "real_duration_seconds": 1.95,
+    "real_time_factor": 683.51,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1340": {
+    "simulated_time_seconds": 1340,
+    "real_duration_seconds": 1.96,
+    "real_time_factor": 683.68,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1350": {
+    "simulated_time_seconds": 1350,
+    "real_duration_seconds": 1.97,
+    "real_time_factor": 683.88,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1360": {
+    "simulated_time_seconds": 1360,
+    "real_duration_seconds": 1.99,
+    "real_time_factor": 684.11,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1370": {
+    "simulated_time_seconds": 1370,
+    "real_duration_seconds": 2.0,
+    "real_time_factor": 684.25,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1380": {
+    "simulated_time_seconds": 1380,
+    "real_duration_seconds": 2.02,
+    "real_time_factor": 684.41,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1390": {
+    "simulated_time_seconds": 1390,
+    "real_duration_seconds": 2.03,
+    "real_time_factor": 684.68,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1400": {
+    "simulated_time_seconds": 1400,
+    "real_duration_seconds": 2.04,
+    "real_time_factor": 684.86,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1410": {
+    "simulated_time_seconds": 1410,
+    "real_duration_seconds": 2.06,
+    "real_time_factor": 685.07,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1420": {
+    "simulated_time_seconds": 1420,
+    "real_duration_seconds": 2.07,
+    "real_time_factor": 685.27,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1430": {
+    "simulated_time_seconds": 1430,
+    "real_duration_seconds": 2.09,
+    "real_time_factor": 685.47,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1440": {
+    "simulated_time_seconds": 1440,
+    "real_duration_seconds": 2.1,
+    "real_time_factor": 685.66,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1450": {
+    "simulated_time_seconds": 1450,
+    "real_duration_seconds": 2.11,
+    "real_time_factor": 685.92,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1460": {
+    "simulated_time_seconds": 1460,
+    "real_duration_seconds": 2.13,
+    "real_time_factor": 686.07,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1470": {
+    "simulated_time_seconds": 1470,
+    "real_duration_seconds": 2.14,
+    "real_time_factor": 686.28,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1480": {
+    "simulated_time_seconds": 1480,
+    "real_duration_seconds": 2.16,
+    "real_time_factor": 686.46,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1490": {
+    "simulated_time_seconds": 1490,
+    "real_duration_seconds": 2.17,
+    "real_time_factor": 686.65,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1500": {
+    "simulated_time_seconds": 1500,
+    "real_duration_seconds": 2.18,
+    "real_time_factor": 686.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1510": {
+    "simulated_time_seconds": 1510,
+    "real_duration_seconds": 2.2,
+    "real_time_factor": 687.06,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1520": {
+    "simulated_time_seconds": 1520,
+    "real_duration_seconds": 2.21,
+    "real_time_factor": 687.22,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1530": {
+    "simulated_time_seconds": 1530,
+    "real_duration_seconds": 2.23,
+    "real_time_factor": 687.37,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1540": {
+    "simulated_time_seconds": 1540,
+    "real_duration_seconds": 2.24,
+    "real_time_factor": 687.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1550": {
+    "simulated_time_seconds": 1550,
+    "real_duration_seconds": 2.25,
+    "real_time_factor": 687.64,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1560": {
+    "simulated_time_seconds": 1560,
+    "real_duration_seconds": 2.27,
+    "real_time_factor": 687.77,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1570": {
+    "simulated_time_seconds": 1570,
+    "real_duration_seconds": 2.28,
+    "real_time_factor": 687.92,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1580": {
+    "simulated_time_seconds": 1580,
+    "real_duration_seconds": 2.3,
+    "real_time_factor": 688.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1590": {
+    "simulated_time_seconds": 1590,
+    "real_duration_seconds": 2.31,
+    "real_time_factor": 688.29,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1600": {
+    "simulated_time_seconds": 1600,
+    "real_duration_seconds": 2.32,
+    "real_time_factor": 688.45,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1610": {
+    "simulated_time_seconds": 1610,
+    "real_duration_seconds": 2.34,
+    "real_time_factor": 688.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1620": {
+    "simulated_time_seconds": 1620,
+    "real_duration_seconds": 2.35,
+    "real_time_factor": 688.73,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1630": {
+    "simulated_time_seconds": 1630,
+    "real_duration_seconds": 2.37,
+    "real_time_factor": 688.87,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1640": {
+    "simulated_time_seconds": 1640,
+    "real_duration_seconds": 2.38,
+    "real_time_factor": 689.12,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1650": {
+    "simulated_time_seconds": 1650,
+    "real_duration_seconds": 2.39,
+    "real_time_factor": 689.24,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1660": {
+    "simulated_time_seconds": 1660,
+    "real_duration_seconds": 2.41,
+    "real_time_factor": 689.38,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1670": {
+    "simulated_time_seconds": 1670,
+    "real_duration_seconds": 2.42,
+    "real_time_factor": 689.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1680": {
+    "simulated_time_seconds": 1680,
+    "real_duration_seconds": 2.44,
+    "real_time_factor": 689.71,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1690": {
+    "simulated_time_seconds": 1690,
+    "real_duration_seconds": 2.45,
+    "real_time_factor": 689.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1700": {
+    "simulated_time_seconds": 1700,
+    "real_duration_seconds": 2.46,
+    "real_time_factor": 690.02,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1710": {
+    "simulated_time_seconds": 1710,
+    "real_duration_seconds": 2.48,
+    "real_time_factor": 690.12,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1720": {
+    "simulated_time_seconds": 1720,
+    "real_duration_seconds": 2.49,
+    "real_time_factor": 690.27,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1730": {
+    "simulated_time_seconds": 1730,
+    "real_duration_seconds": 2.51,
+    "real_time_factor": 690.4,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1740": {
+    "simulated_time_seconds": 1740,
+    "real_duration_seconds": 2.52,
+    "real_time_factor": 690.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1750": {
+    "simulated_time_seconds": 1750,
+    "real_duration_seconds": 2.53,
+    "real_time_factor": 690.67,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1760": {
+    "simulated_time_seconds": 1760,
+    "real_duration_seconds": 2.55,
+    "real_time_factor": 690.83,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1770": {
+    "simulated_time_seconds": 1770,
+    "real_duration_seconds": 2.56,
+    "real_time_factor": 690.96,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1780": {
+    "simulated_time_seconds": 1780,
+    "real_duration_seconds": 2.58,
+    "real_time_factor": 691.11,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1790": {
+    "simulated_time_seconds": 1790,
+    "real_duration_seconds": 2.59,
+    "real_time_factor": 691.25,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1800": {
+    "simulated_time_seconds": 1800,
+    "real_duration_seconds": 2.6,
+    "real_time_factor": 691.35,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1810": {
+    "simulated_time_seconds": 1810,
+    "real_duration_seconds": 2.62,
+    "real_time_factor": 691.48,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1820": {
+    "simulated_time_seconds": 1820,
+    "real_duration_seconds": 2.63,
+    "real_time_factor": 691.66,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1830": {
+    "simulated_time_seconds": 1830,
+    "real_duration_seconds": 2.65,
+    "real_time_factor": 691.78,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1840": {
+    "simulated_time_seconds": 1840,
+    "real_duration_seconds": 2.66,
+    "real_time_factor": 691.88,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1850": {
+    "simulated_time_seconds": 1850,
+    "real_duration_seconds": 2.67,
+    "real_time_factor": 691.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1860": {
+    "simulated_time_seconds": 1860,
+    "real_duration_seconds": 2.69,
+    "real_time_factor": 691.95,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1870": {
+    "simulated_time_seconds": 1870,
+    "real_duration_seconds": 2.7,
+    "real_time_factor": 692.03,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1880": {
+    "simulated_time_seconds": 1880,
+    "real_duration_seconds": 2.72,
+    "real_time_factor": 692.15,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1890": {
+    "simulated_time_seconds": 1890,
+    "real_duration_seconds": 2.73,
+    "real_time_factor": 692.32,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1900": {
+    "simulated_time_seconds": 1900,
+    "real_duration_seconds": 2.74,
+    "real_time_factor": 692.39,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1910": {
+    "simulated_time_seconds": 1910,
+    "real_duration_seconds": 2.76,
+    "real_time_factor": 692.52,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1920": {
+    "simulated_time_seconds": 1920,
+    "real_duration_seconds": 2.77,
+    "real_time_factor": 692.65,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1930": {
+    "simulated_time_seconds": 1930,
+    "real_duration_seconds": 2.79,
+    "real_time_factor": 692.75,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1940": {
+    "simulated_time_seconds": 1940,
+    "real_duration_seconds": 2.8,
+    "real_time_factor": 692.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1950": {
+    "simulated_time_seconds": 1950,
+    "real_duration_seconds": 2.81,
+    "real_time_factor": 693.02,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1960": {
+    "simulated_time_seconds": 1960,
+    "real_duration_seconds": 2.83,
+    "real_time_factor": 693.1,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1970": {
+    "simulated_time_seconds": 1970,
+    "real_duration_seconds": 2.84,
+    "real_time_factor": 693.15,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1980": {
+    "simulated_time_seconds": 1980,
+    "real_duration_seconds": 2.86,
+    "real_time_factor": 693.26,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "1990": {
+    "simulated_time_seconds": 1990,
+    "real_duration_seconds": 2.87,
+    "real_time_factor": 693.37,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2000": {
+    "simulated_time_seconds": 2000,
+    "real_duration_seconds": 2.88,
+    "real_time_factor": 693.48,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2010": {
+    "simulated_time_seconds": 2010,
+    "real_duration_seconds": 2.9,
+    "real_time_factor": 693.65,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2020": {
+    "simulated_time_seconds": 2020,
+    "real_duration_seconds": 2.91,
+    "real_time_factor": 693.74,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2030": {
+    "simulated_time_seconds": 2030,
+    "real_duration_seconds": 2.93,
+    "real_time_factor": 693.84,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2040": {
+    "simulated_time_seconds": 2040,
+    "real_duration_seconds": 2.94,
+    "real_time_factor": 693.96,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2050": {
+    "simulated_time_seconds": 2050,
+    "real_duration_seconds": 2.95,
+    "real_time_factor": 694.02,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2060": {
+    "simulated_time_seconds": 2060,
+    "real_duration_seconds": 2.97,
+    "real_time_factor": 694.12,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2070": {
+    "simulated_time_seconds": 2070,
+    "real_duration_seconds": 2.98,
+    "real_time_factor": 694.25,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2080": {
+    "simulated_time_seconds": 2080,
+    "real_duration_seconds": 3.0,
+    "real_time_factor": 694.34,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2090": {
+    "simulated_time_seconds": 2090,
+    "real_duration_seconds": 3.01,
+    "real_time_factor": 694.4,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2100": {
+    "simulated_time_seconds": 2100,
+    "real_duration_seconds": 3.02,
+    "real_time_factor": 694.48,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2110": {
+    "simulated_time_seconds": 2110,
+    "real_duration_seconds": 3.04,
+    "real_time_factor": 694.59,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2120": {
+    "simulated_time_seconds": 2120,
+    "real_duration_seconds": 3.05,
+    "real_time_factor": 694.67,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2130": {
+    "simulated_time_seconds": 2130,
+    "real_duration_seconds": 3.07,
+    "real_time_factor": 694.77,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2140": {
+    "simulated_time_seconds": 2140,
+    "real_duration_seconds": 3.08,
+    "real_time_factor": 694.91,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2150": {
+    "simulated_time_seconds": 2150,
+    "real_duration_seconds": 3.09,
+    "real_time_factor": 694.95,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2160": {
+    "simulated_time_seconds": 2160,
+    "real_duration_seconds": 3.11,
+    "real_time_factor": 695.04,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2170": {
+    "simulated_time_seconds": 2170,
+    "real_duration_seconds": 3.12,
+    "real_time_factor": 695.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2180": {
+    "simulated_time_seconds": 2180,
+    "real_duration_seconds": 3.14,
+    "real_time_factor": 695.23,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2190": {
+    "simulated_time_seconds": 2190,
+    "real_duration_seconds": 3.15,
+    "real_time_factor": 695.3,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2200": {
+    "simulated_time_seconds": 2200,
+    "real_duration_seconds": 3.16,
+    "real_time_factor": 695.43,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2210": {
+    "simulated_time_seconds": 2210,
+    "real_duration_seconds": 3.18,
+    "real_time_factor": 695.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2220": {
+    "simulated_time_seconds": 2220,
+    "real_duration_seconds": 3.19,
+    "real_time_factor": 695.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2230": {
+    "simulated_time_seconds": 2230,
+    "real_duration_seconds": 3.21,
+    "real_time_factor": 695.64,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2240": {
+    "simulated_time_seconds": 2240,
+    "real_duration_seconds": 3.22,
+    "real_time_factor": 695.72,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2250": {
+    "simulated_time_seconds": 2250,
+    "real_duration_seconds": 3.23,
+    "real_time_factor": 695.81,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2260": {
+    "simulated_time_seconds": 2260,
+    "real_duration_seconds": 3.25,
+    "real_time_factor": 695.93,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2270": {
+    "simulated_time_seconds": 2270,
+    "real_duration_seconds": 3.26,
+    "real_time_factor": 696.0,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2280": {
+    "simulated_time_seconds": 2280,
+    "real_duration_seconds": 3.28,
+    "real_time_factor": 696.04,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2290": {
+    "simulated_time_seconds": 2290,
+    "real_duration_seconds": 3.29,
+    "real_time_factor": 696.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2300": {
+    "simulated_time_seconds": 2300,
+    "real_duration_seconds": 3.3,
+    "real_time_factor": 696.23,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2310": {
+    "simulated_time_seconds": 2310,
+    "real_duration_seconds": 3.32,
+    "real_time_factor": 696.31,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2320": {
+    "simulated_time_seconds": 2320,
+    "real_duration_seconds": 3.33,
+    "real_time_factor": 696.37,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2330": {
+    "simulated_time_seconds": 2330,
+    "real_duration_seconds": 3.35,
+    "real_time_factor": 696.47,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2340": {
+    "simulated_time_seconds": 2340,
+    "real_duration_seconds": 3.36,
+    "real_time_factor": 696.56,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2350": {
+    "simulated_time_seconds": 2350,
+    "real_duration_seconds": 3.37,
+    "real_time_factor": 696.64,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2360": {
+    "simulated_time_seconds": 2360,
+    "real_duration_seconds": 3.39,
+    "real_time_factor": 696.69,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2370": {
+    "simulated_time_seconds": 2370,
+    "real_duration_seconds": 3.4,
+    "real_time_factor": 696.76,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2380": {
+    "simulated_time_seconds": 2380,
+    "real_duration_seconds": 3.42,
+    "real_time_factor": 696.83,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2390": {
+    "simulated_time_seconds": 2390,
+    "real_duration_seconds": 3.43,
+    "real_time_factor": 696.96,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2400": {
+    "simulated_time_seconds": 2400,
+    "real_duration_seconds": 3.44,
+    "real_time_factor": 696.99,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2410": {
+    "simulated_time_seconds": 2410,
+    "real_duration_seconds": 3.46,
+    "real_time_factor": 697.03,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2420": {
+    "simulated_time_seconds": 2420,
+    "real_duration_seconds": 3.47,
+    "real_time_factor": 697.11,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2430": {
+    "simulated_time_seconds": 2430,
+    "real_duration_seconds": 3.49,
+    "real_time_factor": 697.16,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2440": {
+    "simulated_time_seconds": 2440,
+    "real_duration_seconds": 3.5,
+    "real_time_factor": 697.19,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2450": {
+    "simulated_time_seconds": 2450,
+    "real_duration_seconds": 3.51,
+    "real_time_factor": 697.31,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2460": {
+    "simulated_time_seconds": 2460,
+    "real_duration_seconds": 3.53,
+    "real_time_factor": 697.35,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2470": {
+    "simulated_time_seconds": 2470,
+    "real_duration_seconds": 3.54,
+    "real_time_factor": 697.4,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2480": {
+    "simulated_time_seconds": 2480,
+    "real_duration_seconds": 3.56,
+    "real_time_factor": 697.45,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2490": {
+    "simulated_time_seconds": 2490,
+    "real_duration_seconds": 3.57,
+    "real_time_factor": 697.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2500": {
+    "simulated_time_seconds": 2500,
+    "real_duration_seconds": 3.58,
+    "real_time_factor": 697.56,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2510": {
+    "simulated_time_seconds": 2510,
+    "real_duration_seconds": 3.6,
+    "real_time_factor": 697.69,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2520": {
+    "simulated_time_seconds": 2520,
+    "real_duration_seconds": 3.61,
+    "real_time_factor": 697.73,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2530": {
+    "simulated_time_seconds": 2530,
+    "real_duration_seconds": 3.63,
+    "real_time_factor": 697.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2540": {
+    "simulated_time_seconds": 2540,
+    "real_duration_seconds": 3.64,
+    "real_time_factor": 697.84,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2550": {
+    "simulated_time_seconds": 2550,
+    "real_duration_seconds": 3.65,
+    "real_time_factor": 697.91,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2560": {
+    "simulated_time_seconds": 2560,
+    "real_duration_seconds": 3.67,
+    "real_time_factor": 697.96,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2570": {
+    "simulated_time_seconds": 2570,
+    "real_duration_seconds": 3.68,
+    "real_time_factor": 697.98,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2580": {
+    "simulated_time_seconds": 2580,
+    "real_duration_seconds": 3.7,
+    "real_time_factor": 698.08,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2590": {
+    "simulated_time_seconds": 2590,
+    "real_duration_seconds": 3.71,
+    "real_time_factor": 698.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2600": {
+    "simulated_time_seconds": 2600,
+    "real_duration_seconds": 3.72,
+    "real_time_factor": 698.19,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2610": {
+    "simulated_time_seconds": 2610,
+    "real_duration_seconds": 3.74,
+    "real_time_factor": 698.25,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2620": {
+    "simulated_time_seconds": 2620,
+    "real_duration_seconds": 3.75,
+    "real_time_factor": 698.31,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2630": {
+    "simulated_time_seconds": 2630,
+    "real_duration_seconds": 3.77,
+    "real_time_factor": 698.38,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2640": {
+    "simulated_time_seconds": 2640,
+    "real_duration_seconds": 3.78,
+    "real_time_factor": 698.47,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2650": {
+    "simulated_time_seconds": 2650,
+    "real_duration_seconds": 3.79,
+    "real_time_factor": 698.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2660": {
+    "simulated_time_seconds": 2660,
+    "real_duration_seconds": 3.81,
+    "real_time_factor": 698.56,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2670": {
+    "simulated_time_seconds": 2670,
+    "real_duration_seconds": 3.82,
+    "real_time_factor": 698.62,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2680": {
+    "simulated_time_seconds": 2680,
+    "real_duration_seconds": 3.84,
+    "real_time_factor": 698.65,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2690": {
+    "simulated_time_seconds": 2690,
+    "real_duration_seconds": 3.85,
+    "real_time_factor": 698.7,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2700": {
+    "simulated_time_seconds": 2700,
+    "real_duration_seconds": 3.86,
+    "real_time_factor": 698.8,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2710": {
+    "simulated_time_seconds": 2710,
+    "real_duration_seconds": 3.88,
+    "real_time_factor": 698.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2720": {
+    "simulated_time_seconds": 2720,
+    "real_duration_seconds": 3.89,
+    "real_time_factor": 698.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2730": {
+    "simulated_time_seconds": 2730,
+    "real_duration_seconds": 3.91,
+    "real_time_factor": 698.87,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2740": {
+    "simulated_time_seconds": 2740,
+    "real_duration_seconds": 3.92,
+    "real_time_factor": 698.82,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2750": {
+    "simulated_time_seconds": 2750,
+    "real_duration_seconds": 3.94,
+    "real_time_factor": 698.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2760": {
+    "simulated_time_seconds": 2760,
+    "real_duration_seconds": 3.95,
+    "real_time_factor": 698.9,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2770": {
+    "simulated_time_seconds": 2770,
+    "real_duration_seconds": 3.96,
+    "real_time_factor": 698.99,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2780": {
+    "simulated_time_seconds": 2780,
+    "real_duration_seconds": 3.98,
+    "real_time_factor": 699.03,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2790": {
+    "simulated_time_seconds": 2790,
+    "real_duration_seconds": 3.99,
+    "real_time_factor": 699.04,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2800": {
+    "simulated_time_seconds": 2800,
+    "real_duration_seconds": 4.01,
+    "real_time_factor": 699.11,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2810": {
+    "simulated_time_seconds": 2810,
+    "real_duration_seconds": 4.02,
+    "real_time_factor": 699.16,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2820": {
+    "simulated_time_seconds": 2820,
+    "real_duration_seconds": 4.03,
+    "real_time_factor": 699.21,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2830": {
+    "simulated_time_seconds": 2830,
+    "real_duration_seconds": 4.05,
+    "real_time_factor": 699.3,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2840": {
+    "simulated_time_seconds": 2840,
+    "real_duration_seconds": 4.06,
+    "real_time_factor": 699.35,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2850": {
+    "simulated_time_seconds": 2850,
+    "real_duration_seconds": 4.08,
+    "real_time_factor": 699.36,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2860": {
+    "simulated_time_seconds": 2860,
+    "real_duration_seconds": 4.09,
+    "real_time_factor": 699.44,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2870": {
+    "simulated_time_seconds": 2870,
+    "real_duration_seconds": 4.1,
+    "real_time_factor": 699.46,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2880": {
+    "simulated_time_seconds": 2880,
+    "real_duration_seconds": 4.12,
+    "real_time_factor": 699.51,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2890": {
+    "simulated_time_seconds": 2890,
+    "real_duration_seconds": 4.13,
+    "real_time_factor": 699.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2900": {
+    "simulated_time_seconds": 2900,
+    "real_duration_seconds": 4.17,
+    "real_time_factor": 695.02,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2910": {
+    "simulated_time_seconds": 2910,
+    "real_duration_seconds": 4.19,
+    "real_time_factor": 695.01,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2920": {
+    "simulated_time_seconds": 2920,
+    "real_duration_seconds": 4.2,
+    "real_time_factor": 695.06,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2930": {
+    "simulated_time_seconds": 2930,
+    "real_duration_seconds": 4.22,
+    "real_time_factor": 695.12,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2940": {
+    "simulated_time_seconds": 2940,
+    "real_duration_seconds": 4.23,
+    "real_time_factor": 695.21,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2950": {
+    "simulated_time_seconds": 2950,
+    "real_duration_seconds": 4.24,
+    "real_time_factor": 695.26,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2960": {
+    "simulated_time_seconds": 2960,
+    "real_duration_seconds": 4.26,
+    "real_time_factor": 695.34,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2970": {
+    "simulated_time_seconds": 2970,
+    "real_duration_seconds": 4.27,
+    "real_time_factor": 695.4,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2980": {
+    "simulated_time_seconds": 2980,
+    "real_duration_seconds": 4.28,
+    "real_time_factor": 695.46,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "2990": {
+    "simulated_time_seconds": 2990,
+    "real_duration_seconds": 4.3,
+    "real_time_factor": 695.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3000": {
+    "simulated_time_seconds": 3000,
+    "real_duration_seconds": 4.31,
+    "real_time_factor": 695.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3010": {
+    "simulated_time_seconds": 3010,
+    "real_duration_seconds": 4.33,
+    "real_time_factor": 695.65,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3020": {
+    "simulated_time_seconds": 3020,
+    "real_duration_seconds": 4.34,
+    "real_time_factor": 695.62,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3030": {
+    "simulated_time_seconds": 3030,
+    "real_duration_seconds": 4.36,
+    "real_time_factor": 695.67,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3040": {
+    "simulated_time_seconds": 3040,
+    "real_duration_seconds": 4.37,
+    "real_time_factor": 695.72,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3050": {
+    "simulated_time_seconds": 3050,
+    "real_duration_seconds": 4.38,
+    "real_time_factor": 695.77,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3060": {
+    "simulated_time_seconds": 3060,
+    "real_duration_seconds": 4.4,
+    "real_time_factor": 695.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3070": {
+    "simulated_time_seconds": 3070,
+    "real_duration_seconds": 4.41,
+    "real_time_factor": 695.9,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3080": {
+    "simulated_time_seconds": 3080,
+    "real_duration_seconds": 4.43,
+    "real_time_factor": 695.93,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3090": {
+    "simulated_time_seconds": 3090,
+    "real_duration_seconds": 4.44,
+    "real_time_factor": 695.97,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3100": {
+    "simulated_time_seconds": 3100,
+    "real_duration_seconds": 4.45,
+    "real_time_factor": 696.01,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3110": {
+    "simulated_time_seconds": 3110,
+    "real_duration_seconds": 4.47,
+    "real_time_factor": 696.06,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3120": {
+    "simulated_time_seconds": 3120,
+    "real_duration_seconds": 4.48,
+    "real_time_factor": 696.12,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3130": {
+    "simulated_time_seconds": 3130,
+    "real_duration_seconds": 4.5,
+    "real_time_factor": 696.2,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3140": {
+    "simulated_time_seconds": 3140,
+    "real_duration_seconds": 4.51,
+    "real_time_factor": 696.23,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3150": {
+    "simulated_time_seconds": 3150,
+    "real_duration_seconds": 4.52,
+    "real_time_factor": 696.29,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3160": {
+    "simulated_time_seconds": 3160,
+    "real_duration_seconds": 4.54,
+    "real_time_factor": 696.3,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3170": {
+    "simulated_time_seconds": 3170,
+    "real_duration_seconds": 4.55,
+    "real_time_factor": 696.36,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3180": {
+    "simulated_time_seconds": 3180,
+    "real_duration_seconds": 4.57,
+    "real_time_factor": 696.41,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3190": {
+    "simulated_time_seconds": 3190,
+    "real_duration_seconds": 4.58,
+    "real_time_factor": 696.5,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3200": {
+    "simulated_time_seconds": 3200,
+    "real_duration_seconds": 4.59,
+    "real_time_factor": 696.56,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3210": {
+    "simulated_time_seconds": 3210,
+    "real_duration_seconds": 4.61,
+    "real_time_factor": 696.57,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3220": {
+    "simulated_time_seconds": 3220,
+    "real_duration_seconds": 4.62,
+    "real_time_factor": 696.62,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3230": {
+    "simulated_time_seconds": 3230,
+    "real_duration_seconds": 4.64,
+    "real_time_factor": 696.65,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3240": {
+    "simulated_time_seconds": 3240,
+    "real_duration_seconds": 4.65,
+    "real_time_factor": 696.69,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3250": {
+    "simulated_time_seconds": 3250,
+    "real_duration_seconds": 4.66,
+    "real_time_factor": 696.76,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3260": {
+    "simulated_time_seconds": 3260,
+    "real_duration_seconds": 4.68,
+    "real_time_factor": 696.76,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3270": {
+    "simulated_time_seconds": 3270,
+    "real_duration_seconds": 4.69,
+    "real_time_factor": 696.81,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3280": {
+    "simulated_time_seconds": 3280,
+    "real_duration_seconds": 4.71,
+    "real_time_factor": 696.86,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3290": {
+    "simulated_time_seconds": 3290,
+    "real_duration_seconds": 4.72,
+    "real_time_factor": 696.9,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3300": {
+    "simulated_time_seconds": 3300,
+    "real_duration_seconds": 4.73,
+    "real_time_factor": 696.95,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3310": {
+    "simulated_time_seconds": 3310,
+    "real_duration_seconds": 4.75,
+    "real_time_factor": 697.01,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3320": {
+    "simulated_time_seconds": 3320,
+    "real_duration_seconds": 4.76,
+    "real_time_factor": 697.12,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3330": {
+    "simulated_time_seconds": 3330,
+    "real_duration_seconds": 4.78,
+    "real_time_factor": 697.15,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3340": {
+    "simulated_time_seconds": 3340,
+    "real_duration_seconds": 4.79,
+    "real_time_factor": 697.24,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3350": {
+    "simulated_time_seconds": 3350,
+    "real_duration_seconds": 4.8,
+    "real_time_factor": 697.28,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3360": {
+    "simulated_time_seconds": 3360,
+    "real_duration_seconds": 4.82,
+    "real_time_factor": 697.3,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3370": {
+    "simulated_time_seconds": 3370,
+    "real_duration_seconds": 4.83,
+    "real_time_factor": 697.32,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3380": {
+    "simulated_time_seconds": 3380,
+    "real_duration_seconds": 4.85,
+    "real_time_factor": 697.39,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3390": {
+    "simulated_time_seconds": 3390,
+    "real_duration_seconds": 4.86,
+    "real_time_factor": 697.44,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3400": {
+    "simulated_time_seconds": 3400,
+    "real_duration_seconds": 4.87,
+    "real_time_factor": 697.48,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3410": {
+    "simulated_time_seconds": 3410,
+    "real_duration_seconds": 4.89,
+    "real_time_factor": 697.54,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3420": {
+    "simulated_time_seconds": 3420,
+    "real_duration_seconds": 4.9,
+    "real_time_factor": 697.58,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3430": {
+    "simulated_time_seconds": 3430,
+    "real_duration_seconds": 4.92,
+    "real_time_factor": 697.63,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3440": {
+    "simulated_time_seconds": 3440,
+    "real_duration_seconds": 4.93,
+    "real_time_factor": 697.74,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3450": {
+    "simulated_time_seconds": 3450,
+    "real_duration_seconds": 4.94,
+    "real_time_factor": 697.76,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3460": {
+    "simulated_time_seconds": 3460,
+    "real_duration_seconds": 4.96,
+    "real_time_factor": 697.79,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3470": {
+    "simulated_time_seconds": 3470,
+    "real_duration_seconds": 4.97,
+    "real_time_factor": 697.85,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3480": {
+    "simulated_time_seconds": 3480,
+    "real_duration_seconds": 4.99,
+    "real_time_factor": 697.87,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3490": {
+    "simulated_time_seconds": 3490,
+    "real_duration_seconds": 5.0,
+    "real_time_factor": 697.92,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3500": {
+    "simulated_time_seconds": 3500,
+    "real_duration_seconds": 5.01,
+    "real_time_factor": 698.01,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3510": {
+    "simulated_time_seconds": 3510,
+    "real_duration_seconds": 5.03,
+    "real_time_factor": 698.01,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3520": {
+    "simulated_time_seconds": 3520,
+    "real_duration_seconds": 5.04,
+    "real_time_factor": 698.04,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3530": {
+    "simulated_time_seconds": 3530,
+    "real_duration_seconds": 5.06,
+    "real_time_factor": 698.11,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3540": {
+    "simulated_time_seconds": 3540,
+    "real_duration_seconds": 5.07,
+    "real_time_factor": 698.14,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3550": {
+    "simulated_time_seconds": 3550,
+    "real_duration_seconds": 5.08,
+    "real_time_factor": 698.18,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3560": {
+    "simulated_time_seconds": 3560,
+    "real_duration_seconds": 5.1,
+    "real_time_factor": 698.21,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3570": {
+    "simulated_time_seconds": 3570,
+    "real_duration_seconds": 5.11,
+    "real_time_factor": 698.29,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3580": {
+    "simulated_time_seconds": 3580,
+    "real_duration_seconds": 5.13,
+    "real_time_factor": 698.32,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3590": {
+    "simulated_time_seconds": 3590,
+    "real_duration_seconds": 5.14,
+    "real_time_factor": 698.36,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  },
+  "3600": {
+    "simulated_time_seconds": 3600,
+    "real_duration_seconds": 5.15,
+    "real_time_factor": 698.66,
+    "vehicles_departed": 32,
+    "vehicles_arrived": 32,
+    "avg_speed_mps": 0,
+    "avg_waiting_time": 0
+  }
+}

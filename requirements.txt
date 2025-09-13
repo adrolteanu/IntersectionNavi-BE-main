@@ -1,0 +1,9 @@
+Flask
+pymongo
+APScheduler
+tzlocal
+sumolib
+traci
+python-dotenv
+requests
+psutil

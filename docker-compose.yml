@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+  mongo:
+    image: mongo:6
+    container_name: traffic_mongo
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  sim_headless:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        INSTALL_GUI: "false"
+    container_name: sim_headless
+    command: ["sh", "-c", "sleep 5 && python3 headless.py"]
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/traffic_db
+      - SUMO_HOME=/usr/share/sumo
+    ports:
+      - "5001:5000"
+
+  sim_gui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        INSTALL_GUI: "true"
+    platform: linux/amd64
+    container_name: sim_gui
+    command: ["sh", "-c", "sleep 5 && python3 gui.py"]
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/traffic_db
+      - SUMO_HOME=/usr/share/sumo
+      - DISPLAY=${DISPLAY}
+      - API_URL=http://localhost:5001/updateVehicle
+      - SUMO_STEP_LENGTH=1.0
+    network_mode: host
+
+volumes:
+  mongo_data:

@@ -1,0 +1,36 @@
+{
+  "start_time": 369.373172917,
+  "simulations": [
+    {
+      "speed": "scheduled_run",
+      "start": 429.379500611,
+      "duration": 11.292426254999953
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 489.390504679,
+      "duration": 11.498390047999976
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 549.394621249,
+      "duration": 11.778539505000026
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 609.395358734,
+      "duration": 11.670263172000091
+    }
+  ],
+  "system": {
+    "platform": "Linux",
+    "platform_version": "#1 SMP Thu Mar 20 16:32:56 UTC 2025",
+    "cpu": "aarch64",
+    "python_version": "3.10.12",
+    "cpu_count": 8,
+    "memory": 12266119168
+  },
+  "db_fetch_duration": 0.001091416000008394,
+  "payload_count": 59,
+  "total_duration": 251.69344307299997
+}

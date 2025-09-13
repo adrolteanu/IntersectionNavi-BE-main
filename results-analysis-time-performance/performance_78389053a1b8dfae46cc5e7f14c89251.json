@@ -1,0 +1,596 @@
+{
+  "start_time": 65.253507987,
+  "simulations": [
+    {
+      "speed": "scheduled_run",
+      "start": 125.264151055,
+      "duration": 12.571120173000011
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 185.26947275,
+      "duration": 12.532965005999984
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 245.272906027,
+      "duration": 11.221748712999982
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 305.272847596,
+      "duration": 12.479183879999994
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 365.27669129,
+      "duration": 11.397665922000044
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 425.278420817,
+      "duration": 11.074483380000004
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 485.280105094,
+      "duration": 11.529080213999976
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 545.283293788,
+      "duration": 11.058429212999954
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 605.285410482,
+      "duration": 11.364449964000073
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 665.291279843,
+      "duration": 11.180992672000002
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 725.291177953,
+      "duration": 11.22520383899996
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 785.294435397,
+      "duration": 11.027988879999953
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 845.296729591,
+      "duration": 11.565854962999992
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 905.300790784,
+      "duration": 11.17296308899995
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 965.303341271,
+      "duration": 11.983365505999927
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1025.305443465,
+      "duration": 12.074027297999919
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1085.308266742,
+      "duration": 11.744766964000064
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1145.311321811,
+      "duration": 11.192085547000033
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1205.314935213,
+      "duration": 11.459859756000014
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1265.317211699,
+      "duration": 12.751707631000045
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1325.319869809,
+      "duration": 11.287978089000035
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1385.32361217,
+      "duration": 11.182811797000113
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1445.324141114,
+      "duration": 11.386189089000027
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1505.22710485,
+      "duration": 11.862292046999983
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1565.234953293,
+      "duration": 11.337228922000122
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1625.229047529,
+      "duration": 11.103656880000017
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1685.231424389,
+      "duration": 11.634355838999909
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1745.232303125,
+      "duration": 11.632632504999947
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1805.23429386,
+      "duration": 11.49204908899992
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1865.236890804,
+      "duration": 11.606736922999971
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1925.238046957,
+      "duration": 11.625393463999899
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 1985.241622193,
+      "duration": 11.524889755000004
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2045.239879969,
+      "duration": 13.391443798000182
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2105.241437455,
+      "duration": 12.183258256000045
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2165.242408024,
+      "duration": 13.969453465000242
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2225.247056593,
+      "duration": 12.707857340000373
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2285.245394371,
+      "duration": 12.003069921999668
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2345.246658731,
+      "duration": 11.541296129999864
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2405.248443883,
+      "duration": 12.330384421999952
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2465.249229118,
+      "duration": 11.258195213999898
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2525.252179395,
+      "duration": 11.85450708899998
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2585.252730715,
+      "duration": 12.29478983900026
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2645.253630868,
+      "duration": 12.300212421999731
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2705.258742311,
+      "duration": 11.96908800600022
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2765.232262214,
+      "duration": 12.175530505000097
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2825.230860866,
+      "duration": 11.845101631000034
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2885.231583269,
+      "duration": 12.393383006000022
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 2945.233563255,
+      "duration": 13.267428631000257
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3005.234215866,
+      "duration": 12.393883671999902
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3065.234915684,
+      "duration": 12.801131672999873
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3125.236320837,
+      "duration": 12.208596588999626
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3185.238621114,
+      "duration": 11.957353964000049
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3245.237957808,
+      "duration": 11.712343880999924
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3305.239864127,
+      "duration": 11.857991756000047
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3365.242775529,
+      "duration": 13.328627131999838
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3425.24417914,
+      "duration": 13.881009297999753
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3485.243024584,
+      "duration": 13.16622458899974
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3545.247235486,
+      "duration": 13.954583631999867
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3605.248362221,
+      "duration": 13.050624088999939
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3665.247791124,
+      "duration": 12.95676388100037
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3725.248177776,
+      "duration": 13.29094909000014
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3785.247965388,
+      "duration": 12.963704089000203
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3845.257575332,
+      "duration": 13.58552321499974
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3905.250609734,
+      "duration": 13.431304047999674
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 3965.259404219,
+      "duration": 12.751280090000364
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4025.250418247,
+      "duration": 12.768312671999865
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4085.241905023,
+      "duration": 12.841284631000235
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4145.237471968,
+      "duration": 11.41463417199975
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4205.238674329,
+      "duration": 11.478541964000215
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4265.24023194,
+      "duration": 11.615088088999983
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4325.250052384,
+      "duration": 11.50451346400041
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4385.241959369,
+      "duration": 11.763009381000302
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4445.247960605,
+      "duration": 11.81816383899968
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4505.243844632,
+      "duration": 11.314940838999973
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4565.244877034,
+      "duration": 11.634413214000233
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4625.245975936,
+      "duration": 11.665408922000097
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4685.250557547,
+      "duration": 11.357821671999773
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4745.246739075,
+      "duration": 11.960616630000004
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4805.247106061,
+      "duration": 11.69695200500064
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4865.247642796,
+      "duration": 11.711230214000352
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4925.253057698,
+      "duration": 11.593819464000262
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 4985.248863309,
+      "duration": 11.909375173000626
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5045.251666087,
+      "duration": 11.6312419220003
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5105.251944656,
+      "duration": 12.079152379999869
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5225.253717419,
+      "duration": 11.5571355889997
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5285.253820279,
+      "duration": 12.177593339999476
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5345.254230223,
+      "duration": 12.76945238099961
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5405.254716875,
+      "duration": 13.629899674000626
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5465.255487195,
+      "duration": 13.695132756000021
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5525.261346139,
+      "duration": 13.585203380999701
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5585.257931666,
+      "duration": 13.2673347559994
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5645.262781568,
+      "duration": 13.30335817300056
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5705.259880678,
+      "duration": 12.71049121500073
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5765.265794914,
+      "duration": 12.85511458899964
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5825.270436358,
+      "duration": 12.79288725600054
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5885.265093136,
+      "duration": 12.657511255999452
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 5945.264611913,
+      "duration": 12.594183755999438
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6005.267440691,
+      "duration": 11.190455672000098
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6065.278781468,
+      "duration": 11.495584339000743
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6125.278151037,
+      "duration": 11.317924214000413
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6185.279805814,
+      "duration": 11.622378046999984
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6245.283895258,
+      "duration": 11.746878339000432
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6305.282234785,
+      "duration": 11.449513881000712
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6365.284949021,
+      "duration": 12.6893307979999
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6425.282216673,
+      "duration": 13.71143121499972
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6485.283145201,
+      "duration": 13.643668131000595
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6545.284539519,
+      "duration": 13.352185048000138
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6605.28499738,
+      "duration": 13.179411547999734
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6665.289146741,
+      "duration": 12.881741756000338
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6725.28672831,
+      "duration": 12.80167146399981
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6785.288085629,
+      "duration": 12.762532338999335
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6845.289684531,
+      "duration": 12.703115672000422
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6905.290654432,
+      "duration": 12.221666714000094
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 6965.297238126,
+      "duration": 12.653225214000486
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 7025.300360153,
+      "duration": 12.762984005999897
+    },
+    {
+      "speed": "scheduled_run",
+      "start": 7085.292329263,
+      "duration": 12.838462755999899
+    }
+  ],
+  "system": {
+    "platform": "Linux",
+    "platform_version": "#1 SMP Thu Mar 20 16:32:56 UTC 2025",
+    "cpu": "aarch64",
+    "python_version": "3.10.12",
+    "cpu_count": 8,
+    "memory": 12266119168
+  },
+  "db_fetch_duration": 0.0008873329998095869,
+  "payload_count": 59,
+  "total_duration": 7032.8787539899995
+}
